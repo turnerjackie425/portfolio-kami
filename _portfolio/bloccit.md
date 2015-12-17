@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocitoff
+title: Bloccit
 thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+short-description: A reddit replica
 
 ---
 

@@ -5,30 +5,30 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Jacqueline Turner # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1Developer and Mom</h1>
+     <p>I'm a kickass developer specializing in Rails, HTML and CSS</p>
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "turnerjackie425@gmail.com"
   behance:
   bitbucket:
   dribbble: 
-  facebook: 
+  facebook: "https://www.facebook.com/profile.php?id=100009465465751"
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "https://github.com/turnerjackie425?tab=repositories"
   google_plus:
   instagram: 
-  linkedin:  # Full URL
-  pinterest:
+  linkedin:  "https://www.linkedin.com/in/jacqueline-turner-a97121b2"
+  pinterest::
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
@@ -72,3 +72,7 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
+
+  #Gems
+gems:
+  - jekyll-paginate
