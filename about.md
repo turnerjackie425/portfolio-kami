@@ -5,12 +5,14 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+"Complaining about a problem without posing a solution is called whining." -Teddy Roosevelt. 
 
-Jowl sirloin doner shank flank. Leberkas ham ball tip, jowl pastrami short loin pork cow. Rump ground round chuck leberkas shank picanha bacon meatloaf filet mignon. Ball tip swine brisket jowl pig sausage corned beef leberkas pastrami porchetta kevin beef. Ground round tail cupim ribeye, landjaeger meatloaf pig prosciutto. Shank sirloin porchetta frankfurter kevin corned beef ribeye rump doner. Shankle pork loin beef prosciutto short loin venison, ribeye swine kevin pastrami landjaeger ham hock alcatra sirloin ground round.
+I couldn't agree with ol' Teddy more. I have struggled with a career path since graduating high school in 2000. The small town I grew up in offers very little for career opportunities.  I knew an education was important for me. But what did I want to do when I grew up?
 
-Pork chop pork belly bresaola, turducken porchetta sausage cupim pork loin bacon pancetta. Meatloaf tail frankfurter pork belly chicken. Turducken pork prosciutto, pork chop hamburger spare ribs jerky salami leberkas meatball. Tenderloin porchetta strip steak jerky, spare ribs beef ribs pork chop tail short loin sausage. Doner biltong andouille ribeye corned beef. Prosciutto boudin corned beef pork loin tail, ham picanha biltong chicken alcatra. Hamburger frankfurter bacon tail jowl filet mignon rump brisket turducken.
+So I spent my early 20’s ’whining’ and working various jobs from bartending to customer service at a motorcycle shop parts counter. I also became involved in advertising through a local newspaper, which then turned into a job with the web services department. After that I became a stay-at-home mom. 7 years later, I found myself needing to find a career.
 
-Biltong landjaeger swine pork sausage chicken cow cupim ham hock corned beef. Salami alcatra turkey doner rump, ribeye turducken frankfurter pork loin. Alcatra fatback strip steak, frankfurter beef ribs tail pork loin. Jerky shankle filet mignon beef ribs ham, swine sausage sirloin brisket picanha alcatra bresaola.
+That’s when I found Ruby on Rails, and I fell in love. This was the solution to the problem I had been searching for! I finally realized what I wanted to be when I grow up, A PROGRAMMER!!! Full of ambition and anxious to become a great programmer, I enrolled in bloc.io and have now completed the course. 
 
-Short ribs ham hock jerky, sausage beef ribs shoulder beef landjaeger rump sirloin leberkas flank turkey alcatra. Andouille pancetta cupim fatback sirloin landjaeger corned beef turducken tri-tip turkey capicola spare ribs. Chuck hamburger alcatra pig tongue, filet mignon rump bresaola. Porchetta corned beef alcatra beef ribs. Ham hock boudin picanha salami tri-tip ham.
+Within a few short weeks at Bloc, I was making my own Ruby applications using erb, html and css. I still have much to learn but have the ability and the drive to take it all on.  Learning to code will be a career-long journey, and I am enthusiastically awaiting to embark on that adventure.
+
+ I look forward to the day when I can say, “I worked hard, succeeded and provided a great life for my family.”  I finally have the solution in my hands!
