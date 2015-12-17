@@ -39,11 +39,8 @@ theme:
   youtube:
 
   # Scripts
-<<<<<<< HEAD
   google_analytics: "UA-71554315-1"
-=======
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
->>>>>>> master
+
   disqus_shortname:
   katex: true # Enable if using math markup
 
