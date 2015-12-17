@@ -24,11 +24,11 @@ theme:
   dribbble: 
   facebook: "https://www.facebook.com/profile.php?id=100009465465751"
   flickr:
-  github: "https://github.com/turnerjackie425?tab=repositories"
+  github: "https://github.com/turnerjackie425"
   google_plus:
   instagram: 
   linkedin:  "https://www.linkedin.com/in/jacqueline-turner-a97121b2"
-  pinterest::
+  pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
@@ -39,7 +39,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-71554315-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
