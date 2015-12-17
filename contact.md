@@ -7,9 +7,9 @@ feature-img: "img/color.png"
 Email me at turnerjackie425@gmail.com or fill out the form below. 
 
 
-<form action="https://getsimpleform.com/messages?form_api_token=" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=0d6af8d12f21db172b41388ae78fbf9d" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='full-url/thank-you/' />
+  <input type='hidden' name='redirect_to' value='http://turnerjackie425/github.io/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
