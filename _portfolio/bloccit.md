@@ -7,10 +7,14 @@ short-description: A reddit replica!
 ---
 
 
-## Explanation
+{:.center}
+![]({{ site.baseurl }}//assets/bloccit_welcome_page_img.png)
 
 {:.center}
-![]({{https://bloccit-cp27.herokuapp.com/}}/assets/bloccit_index_page.png)
+![]({{ site.baseurl }}//assets/bloccit_index_page.png)
+
+
+## Explanation
 
 Bloccit is a reddit replica that I built through my course work at bloc.io. It was a guided learning experience, for the most part. This is where the majority of my learning happened. I had been doing all the theory, but now it was time to put it to work.
 
@@ -18,7 +22,7 @@ Bloccit is a reddit replica that I built through my course work at bloc.io. It w
 Since this was my first real applciation beyond the typical 'hello world' everyone startsout with, this was the first time I had really worked withthe MVC model. Once I understood it, things went realtively smoothly. My mentor was a great help with this.
 
 {:.center}
-![]({{https://bloccit-cp27.herokuapp.com/}}/assets/bloccit_popuser_page.png)
+![]({{ site.baseurl }}//assets/bloccit_popuser_page.png)
 
 ## Problem
 
