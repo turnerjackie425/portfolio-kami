@@ -22,7 +22,7 @@ Since this was my first real applciation beyond the typical 'hello world' everyo
 
 ## Problem
 
-Things don't always go as planned, even in a guided application build. The layout was all worng (even though I had done everyting as told!) and my mentor wasn't always available! He had a full-time career and a family on top of having to babysit me!
+Things don't always go as planned, even in a guided application build. The layout was all wrong (even though I had done everyting as told!) and my mentor wasn't always available! He had a full-time career and a family on top of having to babysit me!
 
 
 ## Solution

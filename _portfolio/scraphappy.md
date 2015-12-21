@@ -4,9 +4,8 @@ title: Scrap Happy
 thumbnail-path: "assets/scraphappy_index_page_img.png"
 short-description: Digital scrapbooking application and capstone project.
 ---
-
 {:.center}
-![]({{https://scraphappy.herokuapp.com/}}/assets/scraphappy_index_page_img.png)
+![]({{ site.baseurl }}/assets/scraphappy_signin_page.png)
 
 ##Explanation
 I spent most of my bloc.io course wondering what I would do for a capstone project. The thought of it was almost overwhelming. Then I realized that I should do something that shows what am I most passionate about. And that, of course, is my family. A digital scrapbook with a Pinterest type layout is the result of that thought.
@@ -22,10 +21,30 @@ I needed to simplify this application. It is now a simple one page scrapbook. A 
 ##Results
 Production went much smoother and faster after simplifying the problem. Until I went to add the masonry gem. It wasn’t working. The layout was horrible! Being a ‘Ruby Newbie’ meant I would have to find a way to make this work via the internet. I followed the instructions on the masonry gem documentation, but was still having problems. The layout wasn't working anything like I had expected. So, I scoured the internet for a solution. Stack overflow didn’t have the answer (which was really surprising to me. I have found many answers on that site). YouTube was my saving grace. I watched a tutorial and VIOLA! It was finally working.
 
-Masonry working correctly
+Masonry working correctly:
 
 {:.center}
-![]({{ https://scraphappy.herokuapp.com/ }}/assets/scraphappy_index_page_img.png)
+![]({{ site.baseurl }}//assets/scraphappy_index_page_img.png)
+---------------------
+
+New Image Upload:
+
+{:.center}
+![]({{ site.baseurl }}//assets/scraphappy-new-image-upload.png)
+----------------------
+
+
+Show Page:
+
+{:.center}
+![]({{ site.baseurl }}//assets/scraphappy-show-page.png)
+----------------------
+
+
+Edit Page:
+
+{:.center}
+![]({{ site.baseurl }}//assets/scraphappy-edit-page.png)
 
 
 ##Conclusion

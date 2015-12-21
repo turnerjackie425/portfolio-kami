@@ -26,27 +26,26 @@ The result is a functioning app with an appealing background. This is a work in 
 Welcome/Sign in page:
 
 {:.center}
-![]({{https://scraphappy.herokuapp.com/}}/assets/scraphappy_index_page_img.png)
+![]({{ site.baseurl }}/assets/blocipedia_welcome_page_img.png)
 
-{:.center}
-![]({{https://blocipedia-jt.herokuapp.com/}}/assets/blocipedia_welcome_page_img.png)
 
 Seeded Wikis page with pagination gem:
 
 {:.center}
-![]({{https://blocipedia-jt.herokuapp.com/}}/assets/blocipedia_index_page.png)
+![]({{ site.baseurl }}/assets/blocipedia_index_page.png)
 
 
 Wikis show page:
 
 {:.center}
-![]({{https://blocipedia-jt.herokuapp.com/}}/assets/blocipedia_show_page.png)
+![]({{ site.baseurl }}//assets/blocipedia_show_page.png)
 
 
 Wikis edit page:  
 
 {:.center}
-![]({{https://blocipedia-jt.herokuapp.com/}}/assets/blocipedia_edit_page.png)
+![]({{ site.baseurl }}//assets/blocipedia_edit_page.png)
+
 
 ##Conclusion
 
