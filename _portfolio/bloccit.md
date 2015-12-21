@@ -40,3 +40,6 @@ The result is an application that won the approval of my mentor! I had done it!
 ## Conclusion
 
 You can't count on anyone else to find the answers for you, in life or in programming! There are a ton of resources out there, you just need to know where to look.
+
+
+<p><a href="https://github.com/turnerjackie425/Bloccit" title="Bloccit code">Bloccit GitHub repo</a></p>

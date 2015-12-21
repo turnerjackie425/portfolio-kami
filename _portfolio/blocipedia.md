@@ -51,3 +51,6 @@ Wikis edit page:
 
 Perserverance is key, and the more I code the more this is evident. The answers are out there and after completing this application, I had found even more resources! 
 
+<p><a href="https://blocipedia-jt.herokuapp.com/">Blocipedia on Heroku</a></p>
+
+<p><a href="https://github.com/turnerjackie425/Blocipedia" title="Blocipedia code">Blocipedia GitHub repo</a></p>
